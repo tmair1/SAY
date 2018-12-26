@@ -4,13 +4,16 @@
 ---?color=black
 @color[black]
 @div[left-50] 
-![bonobono](./img/bonobono.jpg)&size=auto 50%
+![bonobono](./img/bonobono.jpg)
 @divend
 
 @div[right-50]
 @ul[brighten]
 * 김예지
-* 별명 : 예쁜이
+* 별명 : 조용히해
+* 성격 : 조원들이 이상한 소리를 하면 
+        바로 조용히 시키는 단호함을 가지고 있음
+* 연말 계획 : 가족들과 함께 반오십 맞이하기
 @ulend 
 @divend
 ---
@@ -22,8 +25,7 @@
 ---?color=black
 @color=[black]
 @div=[left-50]
-
-<img src="https://scontent-icn1-1.cdninstagram.com/vp/58c187564471577c3714a6ec7da2f7b7/5CB57364/t51.2885-15/e35/34187406_959085930941025_8015615026922520576_n.jpg?_nc_ht=scontent-icn1-1.cdninstagram.com" width="200">
+![텍스트](https://scontent-icn1-1.cdninstagram.com/vp/58c187564471577c3714a6ec7da2f7b7/5CB57364/t51.2885-15/e35/34187406_959085930941025_8015615026922520576_n.jpg?_nc_ht=scontent-icn1-1.cdninstagram.com)
 @divend
 @div[right-50]
 @ul[brighten]
@@ -49,8 +51,8 @@
 @ul[brighten]
  * 이주호
  * 별명 : 너부리
- * 성격 : 때때로 너부리 EX.예지한테
- * 연말 계획 : 20대 마무리 겸허히 
+ * 성격 : 때때로 너부리 ex.예지한테
+ * 연말 계획 : 20대 마무리 겸허히 하기
 @ulend 
 @divend
 
