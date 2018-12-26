@@ -4,8 +4,11 @@
 ### 김예지
 
 #### 별명 : 예쁜이
+
+@snap[west sidebar]
 ![cat](./img/cat.jpg)
----?image=./img/cat.jpg
+@snapend
+
 
 
 ### 노승만
