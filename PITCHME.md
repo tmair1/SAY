@@ -6,7 +6,7 @@
 ![bonobono](./img/bonobono.jpg)
 @divend
 
-@div[right-50]
+@div[right-70]
 @ul[brighten]
 * 김예지
 * 별명 : 예쁜이
