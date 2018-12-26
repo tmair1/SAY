@@ -6,7 +6,7 @@
 
 #### 별명 : 예쁜이
 ![cat](./img/cat.jpg)
----?color=black
+?color=black
 
 ---
 # 슬라이드 2
