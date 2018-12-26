@@ -1,19 +1,16 @@
 
 ## SSAFY 대전 1반 SAY조
----
-@snap[west]
+---@color[black]
+@div[left-50] 
 ![cat](./img/cat.jpg)
-@snapend
+@divend
 
-@snap[east]
-### 김예지
-
-#### 별명 : 예쁜이
-@snapend
-
-
----
 @div[right-50] 
+@ul[brighten]
+### 김예지
+#### 별명 : 예쁜이
+@ulend @divend
+---
 ### 노승만
 
 #### 별명 : 씅마이
