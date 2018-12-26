@@ -4,7 +4,7 @@
 ---?color=black
 @color[black]
 @div[left-50] 
-![bonobono](./img/bonobono.jpg)
+![bonobono](./img/bonobono.jpg)&size=auto 50%
 @divend
 
 @div[right-50]
