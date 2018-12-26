@@ -4,7 +4,7 @@
 ### 김예지
 
 #### 별명 : 예쁜이
-
+layout : center-right
 @snap[west sidebar]
 ![cat](./img/cat.jpg)
 @snapend
