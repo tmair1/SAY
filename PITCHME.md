@@ -1,13 +1,14 @@
 
 ## SSAFY 대전 1반 SAY조
+---
 
+@snap[east sidebar]
 ### 김예지
 
 #### 별명 : 예쁜이
-layout : center-right
+@snapend
 @snap[west sidebar]
 ![cat](./img/cat.jpg)
-@snapend
 
 
 
