@@ -4,7 +4,7 @@
 @snap[west]
 ![cat](./img/cat.jpg)
 @snapend
-@div[right-50] 
+
 @snap[east]
 ### 김예지
 
@@ -13,7 +13,7 @@
 
 
 ---
-
+@div[right-50] 
 ### 노승만
 
 #### 별명 : 씅마이
