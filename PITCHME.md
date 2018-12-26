@@ -31,14 +31,15 @@
 #### 별명:재차이
 
 ---
+@color[black]
+@div[left-50] 
 ![bonobono](./img/i1351720937.jpg)
 @divend
 
 @div[right-50]
 @ul[brighten]
-### 이주호
-
-####  별명 : 너부리
+ * 이주호
+ * 별명 : 너부리
 @ulend 
 @divend
 
