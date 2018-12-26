@@ -1,6 +1,6 @@
 
 ## SSAFY 대전 1반 SAY조
---?color=black
+---?color=black
 @color[black]
 @div[left-50] 
 ![bonobono](./img/bonobono.jpg)
