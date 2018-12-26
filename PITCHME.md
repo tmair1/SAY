@@ -1,12 +1,12 @@
 ---?color=black
 @color[black]
-@div[left-70]
+@div[left]
 @ul[brighten]
 ## SSAFY 대전 1반 SAY조
 @ulend
 @divend
 
-@div[right-50] 
+@div[right] 
 ![SAY](./img/SAY.jpg)
 @divend
 ---?color=black
