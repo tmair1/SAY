@@ -9,6 +9,7 @@
 @snapend
 @snap[west sidebar]
 ![cat](./img/cat.jpg)
+@snapend
 
 
 
