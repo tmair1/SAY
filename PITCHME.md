@@ -3,11 +3,11 @@
 ---
 @snap[west]
 ![cat](./img/cat.jpg)
-
+@div[left-50]
 @snapend
 
 @snap[east]
-
+@div[right-50]
 ### 김예지
 
 #### 별명 : 예쁜이
