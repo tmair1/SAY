@@ -1,12 +1,12 @@
 
 ## SSAFY 대전 1반 SAY조
----
+--?color=black
 @color[black]
-@div[left] 
+@div[left-50] 
 ![bonobono](./img/bonobono.jpg)
 @divend
 
-@div[right]
+@div[right-50]
 @ul[brighten]
 * 김예지
 * 별명 : 예쁜이
