@@ -1,5 +1,5 @@
 ---?color=black
-![cat](./img/cat.jpg)&size=50% 100%&color=lightgray&opacity=100
+![cat](./img/cat.jpg
 # 슬라이드 1
 ## SSAFY 대전 1반 SAY조
 
