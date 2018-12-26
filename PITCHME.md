@@ -1,9 +1,17 @@
 ---?color=black
 @color[black]
+@div[left-50]
+@ul[brighten]
 ## SSAFY 대전 1반 SAY조
+@ulend
+@divend
+
+@div[right-50] 
+![SAY](./img/SAY.jpg)
+@divend
 ---?color=black
 @color[black]
-@div[left-50] 
+ 
 ![bonobono](./img/bonobono.jpg)
 @divend
 
@@ -19,9 +27,7 @@
 #### 별명 : 씅마이
 
 ---
----?color=black
-@color=[black]
-@div=[left-50]
+
 ### 유지원
 
 #### 별명: CA
@@ -36,7 +42,7 @@
 ---?color=black
 @color[black]
 @div[left-50] 
-![bonobono](./img/i1351720937.jpg)
+![i1351720937](./img/i1351720937.jpg)
 @divend
 
 @div[right-50]
