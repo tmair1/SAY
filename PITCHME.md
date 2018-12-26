@@ -19,7 +19,7 @@
 #### 별명 : 씅마이
 
 ---
-
+---?color=black
 @color=[black]
 @div=[left-50]
 ### 유지원
