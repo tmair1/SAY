@@ -19,20 +19,7 @@
 #### 별명 : 씅마이
 
 ---
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: url('/assets/fonts/roboto-normal.woff2') format('woff2'),
-       url('/assets/fonts/roboto-normal.woff') format('woff');
-}
 
-.roboto,
-.roboto * {
-  text-shadow: none !important;
-  text-transform: none !important;
-  font-family: "Roboto", sans-serif !important;
-}
 @color=[black]
 @div=[left-50]
 ### 유지원
