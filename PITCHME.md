@@ -17,11 +17,11 @@
 @divend
 
 ---?color=black
-@div=[left]
+@div=[left-30]
 ![nsm](./img/nsm.jpg)
 @divend
 
-@div[right]
+@div[right-30]
 @ul[brighten]
 * 노승만
 * 별명 : 씅마이
@@ -69,8 +69,8 @@
 @ul[brighten]
  * 이주호
  * 별명 : 너부리
- * 성격 : 때때로 너부리 EX.예지한테
- * 연말 계획 : 널
+ * 성격 : 때때로 너부리 ex.예지한테
+ * 연말 계획 : 널부러져있기
 @ulend 
 @divend
 
