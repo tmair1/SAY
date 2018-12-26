@@ -31,9 +31,13 @@
 #### 별명:재차이
 
 ---
+![bonobono](./img/i1351720937.jpg)
+@divend
 
+@div[right-50]
+@ul[brighten]
 ### 이주호
 
-#### 별명 : 
+####  별명 : 너부리
 
 
