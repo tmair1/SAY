@@ -4,7 +4,7 @@
 @snap[west]
 ![cat](./img/cat.jpg)
 @snapend
-
+@div[right-50] 
 @snap[east]
 ### 김예지
 
