@@ -15,6 +15,7 @@
 * 연말 계획 : 가족들과 함께 반오십 맞이하기
 @ulend 
 @divend
+
 ---?color=black
 @div=[left-50]
 ![nsm](./img/nsm.jpg)
@@ -24,6 +25,7 @@
 @ul[brighten]
 * 노승만
 * 별명 : 씅마이
+* 성격 : 내성적이라 먼저 말걸기가 힘듬 ㅠㅠ 친해지면 ㅁㅊ
 * 연말계획 : 이사 잘하고 친구들과 가족들과 같이 보내는 것
 @ulend
 @divend
