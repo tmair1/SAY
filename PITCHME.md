@@ -3,7 +3,7 @@
 ---
 @snap[west]
 ![cat](./img/cat.jpg)
-@div[left-100]
+@div[right]
 @snapend
 
 @snap[east]
