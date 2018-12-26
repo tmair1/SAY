@@ -19,7 +19,22 @@
 #### 별명 : 씅마이
 
 ---
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/roboto-normal.woff2') format('woff2'),
+       url('/assets/fonts/roboto-normal.woff') format('woff');
+}
 
+.roboto,
+.roboto * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Roboto", sans-serif !important;
+}
+@color=[black]
+@div=[left-50]
 ### 유지원
 
 #### 별명: CA
@@ -39,12 +54,8 @@
 
 @div[right-50]
 @ul[brighten]
-
  * 이주호
  * 별명 : 너부리
- * 성격 : 때때로 너부리 ex:예지의 도발
- * 연말 계획 : 20대의 마지막 겸허히 맞이하기
- 
 @ulend 
 @divend
 
