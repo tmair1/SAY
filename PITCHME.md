@@ -7,7 +7,7 @@
 @divend
 
 @div[right-50] 
-![SAY](./img/SAY.jpg)&size=%50
+![SAY](./img/SAY.jpg)&size=auto %50
 @divend
 ---?color=black
 @color[black]
