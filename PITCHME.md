@@ -1,5 +1,6 @@
 ---?color=black
 ## SSAFY 대전 1반 SAY조
+---
 
 ### 김예지
 
