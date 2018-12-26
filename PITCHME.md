@@ -34,7 +34,7 @@
 ---?color=black
 @color[black]
 @div[left-50] 
-![bonobono](./img/i1351720937.jpg)
+![i1351720937](./img/i1351720937.jpg)
 @divend
 
 @div[right-50]
