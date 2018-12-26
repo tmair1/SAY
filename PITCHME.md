@@ -7,7 +7,7 @@
 @snapend
 
 @snap[east]
-@div[right-50]
+@div[right+50]
 ### 김예지
 
 #### 별명 : 예쁜이
