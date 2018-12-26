@@ -1,4 +1,4 @@
----?color=black
+---?image=assets/img/cat.jpg
 ## SSAFY 대전 1반 SAY조
 ---
 
