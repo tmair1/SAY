@@ -6,7 +6,7 @@
 ![cat](./img/cat.jpg)
 @divend
 
-@div[right-50] 
+@div[right-80] 
 @ul[brighten]
 * 김예지
 * 별명 : 예쁜이
