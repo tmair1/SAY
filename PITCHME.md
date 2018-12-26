@@ -3,7 +3,7 @@
 ## 김예지
 
 ### 별명 : 예쁜이
-![cat](.img/cat.jpg)
+![cat](./img/cat.jpg)
 
 
 
