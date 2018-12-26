@@ -1,7 +1,8 @@
 
 ## SSAFY 대전 1반 SAY조
----@color[black]
-@div[left-50] 
+---
+@color[black]
+@div[left-80] 
 ![cat](./img/cat.jpg)
 @divend
 
@@ -9,7 +10,8 @@
 @ul[brighten]
 * 김예지
 * 별명 : 예쁜이
-@ulend @divend
+@ulend 
+@divend
 ---
 ### 노승만
 
