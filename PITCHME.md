@@ -1,6 +1,5 @@
 ---?color=black
 ![cat](./img/cat.jpg
-# 슬라이드 1
 ## SSAFY 대전 1반 SAY조
 
 ### 김예지
@@ -8,7 +7,6 @@
 #### 별명 : 예쁜이
 ![cat](./img/cat.jpg)
 ---
-# 슬라이드 2
 
 ### 노승만
 
