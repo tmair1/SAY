@@ -22,7 +22,8 @@
 ---?color=black
 @color=[black]
 @div=[left-50]
-![텍스트](https://scontent-icn1-1.cdninstagram.com/vp/58c187564471577c3714a6ec7da2f7b7/5CB57364/t51.2885-15/e35/34187406_959085930941025_8015615026922520576_n.jpg?_nc_ht=scontent-icn1-1.cdninstagram.com){: width="100" height="100"}
+
+<img src="https://scontent-icn1-1.cdninstagram.com/vp/58c187564471577c3714a6ec7da2f7b7/5CB57364/t51.2885-15/e35/34187406_959085930941025_8015615026922520576_n.jpg?_nc_ht=scontent-icn1-1.cdninstagram.com" width="200">
 @divend
 @div[right-50]
 @ul[brighten]
