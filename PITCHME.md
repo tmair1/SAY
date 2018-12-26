@@ -15,6 +15,7 @@
 * 연말 계획 : 가족들과 함께 반오십 맞이하기
 @ulend 
 @divend
+
 ---?color=black
 @div=[left-50]
 ![nsm](./img/nsm.jpg)
@@ -24,6 +25,7 @@
 @ul[brighten]
 * 노승만
 * 별명 : 씅마이
+* 성격 : 내성적이라 먼저 말걸기가 힘듬 ㅠㅠ 친해지면 ㅁㅊ
 * 연말계획 : 이사 잘하고 친구들과 가족들과 같이 보내는 것
 @ulend
 @divend
@@ -42,11 +44,20 @@
 @ulend
 @divend
 ---
+---?color=black
+@color[black]
+@div[left-50] 
+![peace](./img/peace.jpg)&size=auto 50%
+@divend
 
-### 이재찬
-
-#### 별명:재차이
-
+@div[right-50]
+@ul[brighten]
+* 이재찬
+* 별명 : 재차이
+* 성격 : 평화로운 일상을 추구
+* 연말 계획 : 가족들과 바닷가 가서 해산물 잔뜩 먹기
+@ulend 
+@divend
 ---
 ---?color=black
 @color[black]
@@ -58,8 +69,8 @@
 @ul[brighten]
  * 이주호
  * 별명 : 너부리
- * 성격 : 때때로 너부리 ex.예지한테
- * 연말 계획 : 널부러져있기
+ * 성격 : 때때로 너부리 EX.예지한테
+ * 연말 계획 : 널
 @ulend 
 @divend
 
