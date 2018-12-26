@@ -34,10 +34,21 @@
 @ulend
 @divend
 ---
+---?color=black
+@color[black]
+@div[left-50] 
+![JAE](./img/JAE.jpg)&size=auto 50%
+@divend
 
-### 이재찬
+@div[right-50]
+@ul[brighten]
+* 이재찬
+* 별명 : 재차이
+* 성격 : 평화를 추구함
+* 연말 계획 : 가족들과 바닷가 
+@ulend 
+@divend
 
-#### 별명:재차이
 
 ---
 ---?color=black
