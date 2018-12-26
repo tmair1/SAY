@@ -31,6 +31,7 @@
 #### 별명:재차이
 
 ---
+---?color=black
 @color[black]
 @div[left-50] 
 ![bonobono](./img/i1351720937.jpg)
