@@ -3,7 +3,7 @@
 ---
 @color[black]
 @div[left-50] 
-![cat](./img/cat.jpg)
+![bonobono](./img/bonobono.jpg)
 @divend
 
 @div[right-50]
