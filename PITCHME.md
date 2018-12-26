@@ -7,8 +7,8 @@
 
 @div[right-50] 
 @ul[brighten]
-### 김예지
-#### 별명 : 예쁜이
+* 김예지
+* 별명 : 예쁜이
 @ulend @divend
 ---
 ### 노승만
