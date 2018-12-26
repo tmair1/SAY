@@ -17,11 +17,11 @@
 @divend
 
 ---?color=black
-@div=[left-30]
+@div=[left]
 ![nsm](./img/nsm.jpg)
 @divend
 
-@div[right-30]
+@div[right]
 @ul[brighten]
 * 노승만
 * 별명 : 씅마이
