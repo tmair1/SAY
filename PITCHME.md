@@ -1,4 +1,4 @@
----
+---?color=black
 # 슬라이드 1
 ## SSAFY 대전 1반 SAY조
 
@@ -6,8 +6,6 @@
 
 #### 별명 : 예쁜이
 ![cat](./img/cat.jpg)
-?color=black
-
 ---
 # 슬라이드 2
 
